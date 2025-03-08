@@ -10,3 +10,4 @@ Funcionalidade 9
 Funcionalidade 10
 Funcionalidade 11
 Funcionalidade 12
+Funcionalidade 13
